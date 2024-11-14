@@ -221,8 +221,8 @@
             <mxPoint y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DSdHV_uYFFTrdiYxs1Vo-91" value="人群阶段 &amp;amp; 标签生成" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="577.51" y="832" width="155" height="30" as="geometry" />
+        <mxCell id="DSdHV_uYFFTrdiYxs1Vo-91" value="人群截断 &amp;amp; 标签生成" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="574.5" y="832" width="155" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DSdHV_uYFFTrdiYxs1Vo-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="DSdHV_uYFFTrdiYxs1Vo-94" target="DSdHV_uYFFTrdiYxs1Vo-105">
           <mxGeometry relative="1" as="geometry">
