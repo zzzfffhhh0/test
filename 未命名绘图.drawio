@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="第 1 页" id="AN9gKiS7ZF5wycbH4AYo">
-    <mxGraphModel dx="2726" dy="1480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1193" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -221,8 +221,8 @@
             <mxPoint y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DSdHV_uYFFTrdiYxs1Vo-91" value="关键词召回 &amp;amp; 反馈" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="586" y="832" width="155" height="30" as="geometry" />
+        <mxCell id="DSdHV_uYFFTrdiYxs1Vo-91" value="人群阶段 &amp;amp; 标签生成" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="577.51" y="832" width="155" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DSdHV_uYFFTrdiYxs1Vo-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="DSdHV_uYFFTrdiYxs1Vo-94" target="DSdHV_uYFFTrdiYxs1Vo-105">
           <mxGeometry relative="1" as="geometry">
